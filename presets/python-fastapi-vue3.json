@@ -1,0 +1,18 @@
+{
+  "PROJECT_NAME": "BOQ清单数据提取与标准化Web应用",
+  "PROJECT_ABBR": "BOQSE-Web",
+  "TECH_STACK": "Vue 3 + Element Plus + FastAPI + SQLAlchemy + SQLite/PostgreSQL",
+  "FRONTEND_FRAMEWORK": "Vue 3",
+  "UI_LIBRARY": "Element Plus",
+  "FRONTEND_SRC_PATH": "frontend/src",
+  "FRONTEND_EXT": "vue,js,scss",
+  "API_DIR": "src/api/*",
+  "BACKEND_FRAMEWORK": "FastAPI",
+  "ORM": "SQLAlchemy 2.0",
+  "BACKEND_SRC_PATH": "backend/app",
+  "STATE_MANAGEMENT": "Pinia",
+  "COMMENT_LANGUAGE": "中文",
+  "ENCODING": "UTF-8",
+  "PREFERRED_MODEL_FE": "GPT-5.2",
+  "PREFERRED_MODEL_BE": "GPT-5.2"
+}
